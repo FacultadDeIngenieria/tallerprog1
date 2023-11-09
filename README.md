@@ -1,4 +1,6 @@
 ## Taller
+
+### Presentaciones
 1. [Bash Intro](bash-intro)
 2. [Git Intro](git-intro)
 3. [Regex](regex)
@@ -7,17 +9,12 @@
 6. [Asking Questions](asking-questions)
 7. [Docker](docker)
 
-[//]: # (## Trabajos Prácticos)
+### Trabajos Prácticos
 
-[//]: # (1. [TP1]&#40;practice/1&#41;)
-[//]: # (2. [TP2]&#40;practice/2&#41;)
-[//]: # (3. [TP3]&#40;practice/3&#41;)
-[//]: # (4. [TP4]&#40;practice/4&#41;)
-[//]: # (5. [TP5]&#40;practice/5&#41;)
-[//]: # (6. [TP6]&#40;practice/6&#41;)
-[//]: # (7. [TP7]&#40;practice/7&#41;)
-[//]: # (8. [TP8]&#40;practice/8&#41;)
-[//]: # (9. [TP9]&#40;practice/9&#41;)
+1. [GIT](practice/git)
+2. [BASH](practice/bash)
+3. [JUPYTER](practice/jupyter)
+4. [REGEX](practice/regex)
 
 ## Cátedra
 <!-- * Martin Gutierrez: [martin.gutierrez@ing.austral.edu.ar](mailto:martin.gutierrez@ing.austral.edu.ar) -->
