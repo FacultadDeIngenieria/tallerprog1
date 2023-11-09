@@ -16,6 +16,13 @@
 3. [JUPYTER](practice/jupyter)
 4. [REGEX](practice/regex)
 
+## Documentación Oficial
+
+[GIT](https://git-scm.com/docs)
+[BASH](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+[JUPYTER](https://docs.jupyter.org/en/latest/)
+[Python regex library](https://docs.python.org/3/library/re.html)
+
 ## Cátedra
 <!-- * Martin Gutierrez: [martin.gutierrez@ing.austral.edu.ar](mailto:martin.gutierrez@ing.austral.edu.ar) -->
 <!-- * Agustin Alexander: [aalexander-ext@austral.edu.ar](mailto:aalexander-ext@austral.edu.ar) -->
